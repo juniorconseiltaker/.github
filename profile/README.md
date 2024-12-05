@@ -6,4 +6,4 @@ Nous intervenons auprès de start-ups comme de grands comptes à travers le mond
 
 Tournés vers l’avenir, nous permettons aux étudiants d’acquérir de nouvelles compétences en se mettant au service des entreprises.
 
-https://taker.epitech.eu/
+https://juniortaker.com
